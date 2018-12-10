@@ -6,3 +6,4 @@ I will upload some of the important topics in ML using (mainly) Pytorch, Numpy a
 **MNIST_CVAE** : Implement VAE & Conditional VAE for MNIST images<br/>
 **WGAN_MNIST_Pytorch_Classification** : Implement WGAN-GP for MNIST images, and also train the Discriminator(Critic) to classify the images from 0 to 9. Neural Network can learn to classify the MNIST generated or real, and it can classify the image into one of the labels at the same time.
 
+For any querries, feel free to contact me by won(dot)jang1108(at)gmail(dot)com
