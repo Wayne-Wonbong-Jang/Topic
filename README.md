@@ -9,6 +9,6 @@ I will upload some of the important topics in ML using (mainly) Pytorch, Numpy a
 
 **WGAN_MNIST_Pytorch_Classification** : Implement WGAN-GP for MNIST images, and also train the Discriminator(Critic) to classify the images from 0 to 9. Neural Network can learn to classify the MNIST generated or real, and it can classify the image into one of the labels at the same time.
 
-** (Very) Simplified Version of Pixel CNN** : Implement the simplified version of Pixel CNN for MNIST images
+**(Very) Simplified Version of Pixel CNN** : Implement the simplified version of Pixel CNN for MNIST images
 
 For any querries, feel free to contact me by won(dot)jang1108(at)gmail(dot)com
